@@ -41,3 +41,7 @@ ul li:last-child:hover a{
     background-color: transparent;
     border: 1px solid #00afaa;
 }
+
+#automotive{
+    margin: 0;
+}
