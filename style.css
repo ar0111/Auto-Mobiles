@@ -29,14 +29,14 @@ ul li:last-child:hover a{
     background-image: url("images/ima.jpg");
 }
 
-.btn{
+.mybutton{
     color: white;
     border-radius: 20px;
     background-color: #00afaa;
     transition: all 1s ease-in-out;
 }
 
-.btn:hover{
+.mybutton:hover{
     color: #00afaa !important;
     background-color: transparent;
     border: 1px solid #00afaa;
