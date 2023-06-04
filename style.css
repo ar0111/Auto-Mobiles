@@ -4,23 +4,23 @@
     color:#00afaa !important;
 }
 
-ul li:last-child{
+nav ul li:last-child{
     background-color: #00afaa;
     border-radius: 50px;
     border: 1px solid transparent;
     transition: all 1s ease-in-out;
 }
 
-ul li:last-child a{
+nav ul li:last-child a{
     color: white !important;
 }
 
-ul li:last-child:hover{
+nav ul li:last-child:hover{
     background-color: transparent;
     border: 1px solid #00afaa;
 }
 
-ul li:last-child:hover a{
+nav ul li:last-child:hover a{
     color: #00afaa !important;
     
 }
@@ -53,4 +53,15 @@ ul li:last-child:hover a{
 .card-img, .card-img-top{
     height: 300px !important;
     width: 400px;
+}
+
+ul{
+    list-style: none;
+    color: rgb(202, 198, 198);
+    font-size: 20px;
+}
+
+hr{
+    width: 100%;
+    border: 2px solid rgb(202, 198, 198);
 }
